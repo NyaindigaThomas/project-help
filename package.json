@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "vuetify": "^4.2.1"
-  },
-  "devDependencies": {
-    "@mdi/font": "^7.4.47"
-  }
-}
